@@ -1,0 +1,95 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "custom:ui/pp_logo.png",
+            "height": 60,
+            "ascent": 35,
+            "chars": ["\uD00d"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_dev.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD001"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_admin.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD002"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_mod.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD003"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_team.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uD004"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_builder.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD005"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_keeper.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD006"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_premium.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD007"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_basement.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD008"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_vip.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD009"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:prefix/prefix_player.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uD00a"] 
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/ui_creative.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE00b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/ui_survivor.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE00c"] 
+        }
+    ]
+}

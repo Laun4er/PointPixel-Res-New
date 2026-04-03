@@ -1,0 +1,32 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "custom:ui/pp_logo.png",
+            "height": 60,
+            "ascent": 35,
+            "chars": ["\uF000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/pp_logo.png",
+            "height": 40,
+            "ascent": 25,
+            "chars": ["\uF005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/ui_creative.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE00b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/ui_survivor.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE00c"] 
+        }
+    ]
+}

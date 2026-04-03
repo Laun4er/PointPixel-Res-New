@@ -1,0 +1,186 @@
+{ 
+  "custom.money.interaction_with_coin": {
+  "sounds": [
+    {
+      "name": "custom/money/interaction_with_coin_01",
+      "volume": 0.3
+    },
+    {
+      "name": "custom/money/interaction_with_coin_02",
+      "volume": 0.3
+    },
+    {
+      "name": "custom/money/interaction_with_coin_03",
+      "volume": 0.3
+    },
+    {
+      "name": "custom/money/interaction_with_coin_04",
+      "volume": 0.3
+    },
+    {
+      "name": "custom/money/interaction_with_coin_05",
+      "volume": 0.3
+    },
+    {
+      "name": "custom/money/interaction_with_coin_06",
+      "volume": 0.3
+    }
+  ],
+  "replace": false,
+  "subtitle": "subtitles.block.generic.break"
+  },
+    "custom.sfx.boxes": {
+    "sounds": [
+      {
+        "name": "custom/custom_sfx/jobjob",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_1",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_2",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_3",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_4",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_5",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_6",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_7",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_8",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_9",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_10",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_11",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_12",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_13",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_14",
+        "volume": 0.6
+      },
+      {
+        "name": "custom/custom_sfx/boxes_15",
+        "volume": 0.6
+      }
+    ]
+  },
+  "custom.gui.ui_buy_button": {
+    "sounds": [
+      {
+        "name": "custom/money/ui_buy_button",
+        "volume": 0.3
+      }
+    ]
+  },
+
+  "custom.sfx.porhub": {
+    "sounds": [
+      {
+        "name": "custom/custom_sfx/porhub",
+        "volume": 1.2
+      }
+    ]
+  },
+
+  "custom.sfx.pigout": {
+    "sounds": [
+      {
+        "name": "custom/custom_sfx/pigout",
+        "volume": 0.5
+      }
+    ]
+  },
+
+  "custom.sfx.duel": {
+    "sounds": [
+      {
+        "name": "custom/custom_sfx/duel",
+        "volume": 0.7
+      }
+    ]
+  },
+
+  "custom.sfx.quark": {
+    "sounds": [
+      {
+        "name": "custom/custom_sfx/quark",
+        "volume": 0.5
+      }
+    ]
+  },
+
+  "custom.sfx.afrog": {
+    "sounds": [
+      {
+        "name": "custom/custom_sfx/afrog",
+        "volume": 0.8
+      }
+    ]
+  },
+  "custom.sfx.day_in_paris": {
+    "sounds": [
+      {
+        "name": "custom/custom_sfx/day_in_paris",
+        "volume": 0.6
+      }
+    ]
+  },
+  "custom.sfx.iambuteful": {
+    "sounds": [
+      {
+        "name": "custom/custom_sfx/iambuteful",
+        "volume": 0.7
+      }
+    ]
+  },
+
+  "custom.music.higher_sense-cold_fresh_air": {
+    "sounds": [
+      {
+        "name": "custom/custom_music/higher_sense-cold_fresh_air",
+        "volume": 0.5
+      }
+    ]
+  },
+    "custom.music.hey_love_larry_poppinz": {
+    "sounds": [
+      {
+        "name": "custom/custom_music/hey_love_larry_poppinz",
+        "volume": 0.3
+      }
+    ]
+  }
+}
